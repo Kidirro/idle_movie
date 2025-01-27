@@ -1,0 +1,7 @@
+This game is using images from Flaticon.com
+
+Following images use Flaticon.com icons
+* Businesses.png
+* Items.png
+* Cash.png
+* Icon.png
