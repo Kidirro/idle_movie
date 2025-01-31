@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.google.external-dependency-manager": "file:C:/Users/Admin/Downloads/com.google.external-dependency-manager-1.2.177.tgz",
+    "com.google.external-dependency-manager": "file:../com.google.external-dependency-manager-1.2.177.tgz",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.collab-proxy": "2.6.0",
     "com.unity.feature.2d": "2.0.1",
